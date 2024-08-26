@@ -27,3 +27,4 @@ Mi Card is a personal business card. Imagine every time you wanted to give someo
 
 ![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
 # flutter_lab2
+#dhoangthanh1306@gmail.com
